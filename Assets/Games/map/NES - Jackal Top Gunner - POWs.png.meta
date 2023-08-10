@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 2d5307231b8804941ae7e28209fb219f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1525758104129189272
+    second: NES - Jackal Top Gunner - POWs_0
+  - first:
+      213: -719312792285336891
+    second: NES - Jackal Top Gunner - POWs_1
+  - first:
+      213: 7912994580699737715
+    second: NES - Jackal Top Gunner - POWs_2
+  - first:
+      213: -1030474377169672385
+    second: NES - Jackal Top Gunner - POWs_3
+  - first:
+      213: 516217561534407961
+    second: NES - Jackal Top Gunner - POWs_4
+  - first:
+      213: -4876488902926974324
+    second: NES - Jackal Top Gunner - POWs_5
+  - first:
+      213: -5436779147883631555
+    second: NES - Jackal Top Gunner - POWs_6
+  - first:
+      213: 4551555325069745612
+    second: NES - Jackal Top Gunner - POWs_7
+  - first:
+      213: 3655521878920580169
+    second: NES - Jackal Top Gunner - POWs_8
+  - first:
+      213: 8098391347420722266
+    second: NES - Jackal Top Gunner - POWs_9
+  - first:
+      213: -3207992735764480722
+    second: NES - Jackal Top Gunner - POWs_10
+  - first:
+      213: -5083735120580228007
+    second: NES - Jackal Top Gunner - POWs_11
+  - first:
+      213: 9014465441249145561
+    second: NES - Jackal Top Gunner - POWs_12
+  - first:
+      213: 5518294587730737069
+    second: NES - Jackal Top Gunner - POWs_13
+  - first:
+      213: -3683670153313024898
+    second: NES - Jackal Top Gunner - POWs_14
+  - first:
+      213: 7601594094845074931
+    second: NES - Jackal Top Gunner - POWs_15
+  - first:
+      213: 3688498770720660632
+    second: NES - Jackal Top Gunner - POWs_16
+  - first:
+      213: 1805096104472792531
+    second: NES - Jackal Top Gunner - POWs_17
+  - first:
+      213: -5104184163754864826
+    second: NES - Jackal Top Gunner - POWs_18
+  - first:
+      213: -206706049304323000
+    second: NES - Jackal Top Gunner - POWs_19
+  - first:
+      213: 2586523695239679051
+    second: NES - Jackal Top Gunner - POWs_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 164
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8953bc179e49c2510800000000000000
+      internalID: 1525758104129189272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 164
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca207593dc7406f0800000000000000
+      internalID: -719312792285336891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 163
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee23475aa90dd60800000000000000
+      internalID: 7912994580699737715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 163
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37e8ae730503b1f0800000000000000
+      internalID: -1030474377169672385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 163
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915a31e1329f92700800000000000000
+      internalID: 516217561534407961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 146
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8247e5fd2b335cb0800000000000000
+      internalID: -4876488902926974324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 146
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c25289b2eac84b0800000000000000
+      internalID: -5436779147883631555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 147
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdd156f37f5a2f30800000000000000
+      internalID: 4551555325069745612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 147
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ccab5f7c50bb230800000000000000
+      internalID: 3655521878920580169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 146
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54fb1bf504436070800000000000000
+      internalID: 8098391347420722266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 130
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d79be7a9bea73d0800000000000000
+      internalID: -3207992735764480722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 130
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c43a5b7d1f279b0800000000000000
+      internalID: -5083735120580228007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2b0b1ee80d91d70800000000000000
+      internalID: 9014465441249145561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7b6abb0bbe49c40800000000000000
+      internalID: 5518294587730737069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7481123389f0ecc0800000000000000
+      internalID: -3683670153313024898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 130
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd92f5ed894e7960800000000000000
+      internalID: 7601594094845074931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c1547e61e203330800000000000000
+      internalID: 3688498770720660632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddca8cd75dfc0910800000000000000
+      internalID: 1805096104472792531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 113
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f8733db8b4a29b0800000000000000
+      internalID: -5104184163754864826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 113
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c9a4e71f1a12df0800000000000000
+      internalID: -206706049304323000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - POWs_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c44e9c89d25e320800000000000000
+      internalID: 2586523695239679051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
