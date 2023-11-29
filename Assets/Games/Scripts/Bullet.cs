@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 namespace io.lockedroom.Games.Jackal {
 
     public class Bullet : MonoBehaviour {
@@ -23,13 +24,18 @@ namespace io.lockedroom.Games.Jackal {
 
         // Update is called once per frame
         void Update() {
+            if(Shoot.instance.IsShooting==true) {
+                gameObject.SetActive(true);
+                StartCoroutine(BulletLifeTime());
+            }
             if(IsMoving) {
                 transform.position = Vector2.MoveTowards(transform.position, TargetPosition, Speed * Time.deltaTime);
             }
-            BulletLifeTime();
+            
         }
-        private void BulletLifeTime() {
-            Destroy(gameObject, 1f);
+        private IEnumerator BulletLifeTime() {
+            yield return new WaitForSeconds(2f);
+            gameObject.SetActive(false);    
         }
         private void OnCollisionEnter2D(Collision2D collision) {
             if (collision.gameObject.CompareTag("Soldier")) {
