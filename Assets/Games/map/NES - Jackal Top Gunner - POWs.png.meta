@@ -66,7 +66,7 @@ TextureImporter:
       213: 2586523695239679051
     second: NES - Jackal Top Gunner - POWs_20
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -83,9 +83,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -117,10 +120,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -132,6 +140,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -144,6 +153,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -156,6 +166,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -612,9 +649,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      NES - Jackal Top Gunner - POWs_0: 1525758104129189272
+      NES - Jackal Top Gunner - POWs_1: -719312792285336891
+      NES - Jackal Top Gunner - POWs_10: -3207992735764480722
+      NES - Jackal Top Gunner - POWs_11: -5083735120580228007
+      NES - Jackal Top Gunner - POWs_12: 9014465441249145561
+      NES - Jackal Top Gunner - POWs_13: 5518294587730737069
+      NES - Jackal Top Gunner - POWs_14: -3683670153313024898
+      NES - Jackal Top Gunner - POWs_15: 7601594094845074931
+      NES - Jackal Top Gunner - POWs_16: 3688498770720660632
+      NES - Jackal Top Gunner - POWs_17: 1805096104472792531
+      NES - Jackal Top Gunner - POWs_18: -5104184163754864826
+      NES - Jackal Top Gunner - POWs_19: -206706049304323000
+      NES - Jackal Top Gunner - POWs_2: 7912994580699737715
+      NES - Jackal Top Gunner - POWs_20: 2586523695239679051
+      NES - Jackal Top Gunner - POWs_3: -1030474377169672385
+      NES - Jackal Top Gunner - POWs_4: 516217561534407961
+      NES - Jackal Top Gunner - POWs_5: -4876488902926974324
+      NES - Jackal Top Gunner - POWs_6: -5436779147883631555
+      NES - Jackal Top Gunner - POWs_7: 4551555325069745612
+      NES - Jackal Top Gunner - POWs_8: 3655521878920580169
+      NES - Jackal Top Gunner - POWs_9: 8098391347420722266
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
