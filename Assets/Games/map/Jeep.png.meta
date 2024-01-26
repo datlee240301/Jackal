@@ -633,7 +633,7 @@ TextureImporter:
         width: 6
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -654,7 +654,7 @@ TextureImporter:
         width: 10
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -675,7 +675,7 @@ TextureImporter:
         width: 10
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -683,6 +683,27 @@ TextureImporter:
       bones: []
       spriteID: 9f14cf2e2731842b0800000000000000
       internalID: -5600204752479829511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeep_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 112
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd186c00b8ce143bc8a18d4008134f
+      internalID: 399977568
       vertices: []
       indices: 
       edges: []
@@ -714,6 +735,7 @@ TextureImporter:
       Jeep_20: -1135028067170560117
       Jeep_21: 2028547252195223345
       Jeep_22: -5600204752479829511
+      Jeep_23: 399977568
       Jeep_3: -3024136894616874312
       Jeep_4: 3261166655614442663
       Jeep_5: 2643457075199273856

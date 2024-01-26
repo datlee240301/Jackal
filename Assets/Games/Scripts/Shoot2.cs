@@ -49,7 +49,7 @@ namespace io.lockedroom.Games.Jackal {
         }
         private void FireMissle() {
             timeBtwFire = TimeBtwFire;
-            GameObject BuleetTmp = Instantiate(Missle, ShootingPoint2.position, Quaternion.identity);
+            GameObject BuleetTmp = Instantiate(Missle, ShootingPoint2.position, ShootingPoint2.rotation);
             Rigidbody2D rb = BuleetTmp.GetComponent<Rigidbody2D>();
             rb.AddForce(transform.right * MissleForce, ForceMode2D.Impulse);
         }
